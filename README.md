@@ -17,7 +17,7 @@ It allows users to convert **temperature** and **length units** with proper vali
 
 ## 📸 Screenshot
  <p align="center">
-  <img width="400" alt="Unit Converter Screenshot" src="https://github.com/user-attachments/assets/4d58cff8-3374-4b23-85d1-d554a80f9896" />
+  <img width="300" alt="Unit Converter Screenshot" src="https://github.com/user-attachments/assets/4d58cff8-3374-4b23-85d1-d554a80f9896" />
 </p>
   
 ## 👩‍💻 Author
