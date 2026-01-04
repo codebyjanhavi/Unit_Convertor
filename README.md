@@ -16,9 +16,9 @@ It allows users to convert **temperature** and **length units** with proper vali
   python unit_converter.py
 
 ## 📸 Screenshot
-  <p align="centre">
-  <img width="400" alt="Screenshot 2026-01-04 112210" src="https://github.com/user-attachments/assets/4d58cff8-3374-4b23-85d1-d554a80f9896" />
-  </p>
+ <p align="center">
+  <img width="400" alt="Unit Converter Screenshot" src="https://github.com/user-attachments/assets/4d58cff8-3374-4b23-85d1-d554a80f9896" />
+</p>
   
 ## 👩‍💻 Author
 **Janhavi Tawrej**
